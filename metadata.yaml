@@ -1,0 +1,29 @@
+_repo: Rise-of-the-New-West-1819-1829_3826
+creator:
+  author:
+    agent_name: Turner, Frederick Jackson
+    alias: Turner, F. J. (Frederick Jackson)
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '1322'
+    url: http://www.gutenberg.org/2009/agents/1322
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frederick_Jackson_Turner
+    - http://en.citizendium.org/wiki/Frederick_Jackson_Turner
+description: ''
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon -- History -- To 1859'
+- !lcc 'F590.3'
+- !lcsh 'Mississippi River Valley -- History -- 1803-1865'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcsh 'West (U.S.) -- History'
+title: Rise of the New West, 1819-1829
+url: http://www.gutenberg.org/ebooks/3826
