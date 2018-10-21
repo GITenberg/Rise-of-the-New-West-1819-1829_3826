@@ -1,5 +1,5 @@
 _repo: Rise-of-the-New-West-1819-1829_3826
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Mississippi River Valley -- History -- 1803-1865'
 - !lcsh 'United States -- Politics and government -- 1815-1861'
 - !lcsh 'West (U.S.) -- History'
+- GITenberg
 title: Rise of the New West, 1819-1829
 url: http://www.gutenberg.org/ebooks/3826
